@@ -1,3 +1,6 @@
+Programming test for a job application some years ago 
+=====================================================
+
 Maze Test Solution
 ==================
 
